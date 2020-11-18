@@ -1,0 +1,28 @@
+
+
+
+Nov 18 2020
+used "Download" to download the whole folder VEuPathDB-headers at 
+https://drive.google.com/drive/u/1/folders/1vbXTFYvwDCuQHw2-67_ssD2w2QIhfQbX
+(It includes Ortho soon to be released.)
+
+Website content folders
+-----------------------
+Logos-web
+   icon AND white font website name
+Logos-color-text-web
+   icon AND colored website name
+Logos-color-text-web-2x  what for?
+Icons-web
+   just the icon, to be used eg in footer
+Header-backgrounds
+
+----------------------
+WARNING: it does NOT incude the Images for Headers folder because some files were > 100MB
+
+First attemmpt to git push:
+remote: error: File K-drive/VEuPathDB-headers/Images for headers/TriTrypDB/T. brucei/TriTrypPics/Credit Wheeler/Tryp1mod.png is 132.75 MB; this exceeds GitHub's file size limit of 100.00 MB
+
+after removing Images for Headers, no files remain > 100MB
+du -a VEuPathDB-headers | sort -n -r | head -n 20
+
