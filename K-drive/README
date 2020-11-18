@@ -18,22 +18,14 @@ Icons-web
 Header-backgrounds
 
 ----------------------
-WARNING: it does NOT incude the Images for Headers folder because some files were > 100MB
+WARNING: it does NOT incude 
+VEuPathDB-headers/Images for headers/TriTrypDB/T. brucei/TriTrypPics/Credit Wheeler/Tryp1mod.png
+because it is  > 100MB
 
 First attemmpt to git push:
 remote: error: File K-drive/VEuPathDB-headers/Images for headers/TriTrypDB/T. brucei/TriTrypPics/Credit Wheeler/Tryp1mod.png is 132.75 MB; this exceeds GitHub's file size limit of 100.00 MB
 
-It is :
-https://drive.google.com/drive/u/1/folders/1pXHbKmyF5LXRxteL1-TwhQZZEg2qQVeC
-
-
-apple-2:K-drive aurreco$ du -a Images\ for\ headers/ | sort -n -r | head -n 20
-812040	Images for headers/
-494200	Images for headers//TriTrypDB
-459824	Images for headers//TriTrypDB/T. brucei/TriTrypPics
-459824	Images for headers//TriTrypDB/T. brucei
-275744	Images for headers//TriTrypDB/T. brucei/TriTrypPics/Credit Wheeler
-271880	Images for headers//TriTrypDB/T. brucei/TriTrypPics/Credit Wheeler/Tryp1mod.png
-
-
+(check the largest files: 
+du -a Images\ for\ headers/ | sort -n -r | head -n 20
+)
 
