@@ -1,23 +1,39 @@
 
+-------------------------------------------------
+Dec 4 2020
 
+UPDATED Ortho
+Icons-web/orthomclDB.png
+Logos-color-text-2x/orthomclDB.png
+Logos-color-text-web/orthomclDB.png
+Logos-web/orthomclDB.png
+Logos-editable/orthomclDB.ai
 
+-------------------------------------------------
 Nov 18 2020
 used "Download" to download the whole folder VEuPathDB-headers at 
 https://drive.google.com/drive/u/1/folders/1vbXTFYvwDCuQHw2-67_ssD2w2QIhfQbX
 (It includes Ortho soon to be released.)
 
-Website content folders
------------------------
-Logos-web
-   icon AND white font website name
-Logos-color-text-web
-   icon AND colored website name
-Logos-color-text-web-2x  what for?
-Icons-web
-   just the icon, to be used eg in footer
+-------------------------------------------------
+Website content folders (alphabetical)
+
+Header art - candidate imges
 Header-backgrounds
 
-----------------------
+*Icons-web*
+   just the icon, to be used eg in footer
+
+*Logos-color-text-web*
+Logos-color-text-2x
+   icon AND colored website name
+
+Logos-editable  
+
+*Logos-web*
+   icon AND white font website name
+
+-------------------------------------------------
 WARNING: it does NOT incude 
 VEuPathDB-headers/Images for headers/TriTrypDB/T. brucei/TriTrypPics/Credit Wheeler/Tryp1mod.png
 because it is  > 100MB
